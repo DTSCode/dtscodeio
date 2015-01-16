@@ -1,0 +1,14 @@
+#! stdtmpl
+#proc genHTMLPage(title, content: string): string =
+<html>
+    <head>
+        <title>$title</title>
+    </head>
+
+    <body>
+        <p>$content</p>
+    </body>
+</html>
+
+#proc newline(): string =
+<br />
