@@ -40,7 +40,7 @@ routes:
                 "Error 404: Page Not Found"
             )
 
-    get r"/(learnmath|lm)":
+    get "/learnmath":
         discard
 
 runForever()
