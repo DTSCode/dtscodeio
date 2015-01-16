@@ -25,7 +25,7 @@ routes:
             "Admin: dtscode<br />" &
             "Password: cppserver<br /><br />" &
             "Questions, Comments, Concerns? contact dtscode at DTSCode@gmail.com or on irc.freenode.net<br />" &
-            "=================================================================================<br /><br />" &
+            "==========================================================================================<br /><br />" &
             "This message has been brought to you by the following<br />" &
             " * TeaBot - because irc without tea isn't the same<br />" &
             " * lightning - C++ without the features and all of the bugs<br />" &
