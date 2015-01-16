@@ -40,7 +40,7 @@ routes:
                 "Error 404: Page Not Found"
             )
 
-    get "/lysa":
+    get r"/(learnmath|lm)":
         discard
 
 runForever()
